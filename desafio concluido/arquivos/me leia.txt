@@ -1,0 +1,5 @@
+os arquivos sql que estao aqui,foram modificados para ser retirados os dados ruins ou invalidos 
+
+obs as alterações na tabela agendamento froam apenas modificar a hora de -1 para 1
+
+mais sobre na pasta dados sql
